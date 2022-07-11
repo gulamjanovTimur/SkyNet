@@ -13,7 +13,7 @@ const { totalPrice } = storeToRefs(store)
   <div class="app">
     <Step :data="step" :key="index" v-for="(step, index) in data"/>
     <div class="app__result result">
-      <span class="result__text">ИТОГО К ОПЛАТЕ</span>asd
+      <span class="result__text">ИТОГО К ОПЛАТЕ</span>
       <span>{{totalPrice}} ₽</span>
     </div>
   </div>
