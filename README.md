@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# Тестовое задание в компанию SkyNet
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+https://skynet.ru/
 
-## Recommended IDE Setup
+## Шаги для запуска проекта
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+1. Необходимо скачать зависимости
+
+```bash
+yarn
+```
+
+2. Запуск проекта
+
+```bash
+yarn dev
+```
